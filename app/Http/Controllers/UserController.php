@@ -23,11 +23,7 @@ class UserController extends Controller
         return view('daftar-pengguna')->with($data);
     }
 
-    public function daftar_bahagian() {
-        $data = [
-            'title' => 'Daftar Bahagian',
-            'age' => 30,
-        ];
-        return view('daftar-bahagian')->with($data);
+    public function add_pengguna(Request $request) {
+
     }
 }
