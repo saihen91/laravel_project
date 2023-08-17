@@ -23,3 +23,4 @@ use App\Http\Controllers\UserController;
 Route::get('/', [UserController::class, 'index']);
 Route::get('/daftar-pengguna', [UserController::class, 'daftar_pengguna']);
 Route::get('/daftar-bahagian', [UserController::class, 'daftar_bahagian']);
+Route::post('/add-pengguna', [UserController::class, 'add_pengguna']);
