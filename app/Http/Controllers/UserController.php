@@ -24,6 +24,12 @@ class UserController extends Controller
     }
 
     public function add_pengguna(Request $request) {
-
+        $incomingFields = $request->validate([
+            'nama' => 'required',
+            'username' => 'required',
+            'password' => 'required',
+            'bahagian' => 'required',
+            'jawatan' => 'required'
+        ]);
     }
 }

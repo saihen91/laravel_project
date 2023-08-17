@@ -26,6 +26,12 @@
                         <option value="arrahnu">ARRAHNU</option>
                         <option value="kedai">KEDAI</option>
                         <option value="kewangan">KEWANGAN</option>
+                        <option value="kaunter_1">KAUNTER 1</option>
+                        <option value="kaunter_2">KAUNTER 2</option>
+                        <option value="kaunter_3">KAUNTER 3</option>
+                        <option value="kaunter_4">KAUNTER 4</option>
+                        <option value="kaunter_5">KAUNTER 5</option>
+                        <option value="kaunter_6">KAUNTER 6</option>
                     </select>
                 </div>
                 <div class="col-lg-3">

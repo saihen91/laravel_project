@@ -14,6 +14,7 @@ return new class extends Migration
         Schema::table('users', function (Blueprint $table) {
             $table->string('bahagian');
             $table->string('jawatan');
+            $table->int('isAdmin');
         });
     }
 
@@ -25,6 +26,7 @@ return new class extends Migration
         Schema::table('users', function (Blueprint $table) {
             $table->dropColumn('bahagian');
             $table->dropColumn('jawatan');
+            $table->dropcolumn('isAdmin');
         });
     }
 };

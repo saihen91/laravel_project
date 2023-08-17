@@ -37,25 +37,25 @@
 						<!-- Pentadbiran -->
 						<li class="nav-item-header"><div class="text-uppercase font-size-xs line-height-xs">Pentadbiran</div> <i class="icon-menu" title="Main"></i></li>
 						<li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Keanggotaan</span></a>
+							<a href="#" class="nav-link"><i class="icon-users"></i> <span>Keanggotaan</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Layouts">
-								<li class="nav-item"><a href="index.html" class="nav-link">Default layout</a></li>
-								<li class="nav-item"><a href="../../../../layout_2/LTR/default/full/index.html" class="nav-link">Layout 2</a></li>
-								<li class="nav-item"><a href="../../../../layout_3/LTR/default/full/index.html" class="nav-link">Layout 3</a></li>
+								<li class="nav-item"><a href="/daftar-list" class="nav-link">Permohonan Baru</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Laporan Anggota Baru</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Potongan Anggota</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Kemaskini Anggota</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Label Anggota</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Label Majikan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Anggota Berhenti</a></li>
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Pembiayaan</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Layouts">
-								<li class="nav-item"><a href="index.html" class="nav-link">Default layout</a></li>
-								<li class="nav-item"><a href="../../../../layout_2/LTR/default/full/index.html" class="nav-link">Layout 2</a></li>
-								<li class="nav-item"><a href="../../../../layout_3/LTR/default/full/index.html" class="nav-link">Layout 3</a></li>
-								<li class="nav-item"><a href="../../../../layout_4/LTR/default/full/index.html" class="nav-link">Layout 4</a></li>
-								<li class="nav-item"><a href="../../../../layout_5/LTR/default/full/index.html" class="nav-link">Layout 5</a></li>
-								<li class="nav-item"><a href="../../../../layout_6/LTR/default/full/index.html" class="nav-link">Layout 6</a></li>
-								<li class="nav-item"><a href="../../../../layout_7/LTR/default/full/index.html" class="nav-link disabled">Layout 7 <span class="badge bg-transparent align-self-center ml-auto">Coming soon</span></a></li>
+								<li class="nav-item"><a href="" class="nav-link">Daftar Pembiayaan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Senarai Pembiayaan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Penyata Pembiayaan</a></li>
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
@@ -70,38 +70,66 @@
 						</li>
 						<li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Terimaan</span></a>
-
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
-								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Static layout</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_header.html" class="nav-link">No header</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_footer.html" class="nav-link">No footer</a></li>
+								<li class="nav-item nav-item-submenu">
+									<a href="#" class="nav-link"><i class="icon-plus3"></i> Terimaan Anggota</a>
+									<ul class="nav nav-group-sub">
+										<li class="nav-item"><a href="#" class="nav-link">Rekod Terimaan</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Cetak Terimaan</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Laporan Terimaan</a></li>
+									</ul>
+								</li>
+							</ul>
+							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
+								<li class="nav-item nav-item-submenu">
+									<a href="#" class="nav-link"><i class="icon-plus3"></i> Terimaan Pelbagai</a>
+									<ul class="nav nav-group-sub">
+										<li class="nav-item"><a href="#" class="nav-link">Rekod Terimaan</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Cetak Terimaan</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Laporan Terimaan</a></li>
+									</ul>
+								</li>
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Bayaran</span></a>
-
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
-								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Static layout</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_header.html" class="nav-link">No header</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_footer.html" class="nav-link">No footer</a></li>
+								<li class="nav-item nav-item-submenu">
+									<a href="#" class="nav-link"><i class="icon-plus3"></i> Bayaran Anggota</a>
+									<ul class="nav nav-group-sub">
+										<li class="nav-item"><a href="#" class="nav-link">Rekod Bayaran</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Cetak Bayaran</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Laporan Bayaran</a></li>
+									</ul>
+								</li>
+							</ul>
+							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
+								<li class="nav-item nav-item-submenu">
+									<a href="#" class="nav-link"><i class="icon-plus3"></i> Bayaran Pelbagai</a>
+									<ul class="nav nav-group-sub">
+										<li class="nav-item"><a href="#" class="nav-link">Rekod Bayaran</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Cetak Bayaran</a></li>
+										<li class="nav-item"><a href="#" class="nav-link">Laporan Bayaran</a></li>
+									</ul>
+								</li>
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Hadiahsiswa</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
-								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Static layout</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_header.html" class="nav-link">No header</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_footer.html" class="nav-link">No footer</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Daftar Permohonan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Senarai & Kelulusan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Cetak Penyata</a></li>
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Derma Kebajikan</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
-								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Static layout</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_header.html" class="nav-link">No header</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_footer.html" class="nav-link">No footer</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Daftar Permohonan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Senarai & Kelulusan</a></li>
+								<li class="nav-item"><a href="" class="nav-link">Cetak Penyata</a></li>
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
@@ -126,9 +154,9 @@
 							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Mesyuarat Agung</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
-								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Static layout</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_header.html" class="nav-link">No header</a></li>
-								<li class="nav-item"><a href="../seed/layout_no_footer.html" class="nav-link">No footer</a></li>
+								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Rekod Notis</a></li>
+								<li class="nav-item"><a href="../seed/layout_no_header.html" class="nav-link">Rekod Kelayakan</a></li>
+								<li class="nav-item"><a href="../seed/layout_no_footer.html" class="nav-link">Kehadiran</a></li>
 							</ul>
 						</li>
 						

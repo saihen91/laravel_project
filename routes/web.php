@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\AnggotaController;
 
 /*
 |--------------------------------------------------------------------------
@@ -24,3 +25,6 @@ Route::get('/', [UserController::class, 'index']);
 Route::get('/daftar-pengguna', [UserController::class, 'daftar_pengguna']);
 Route::get('/daftar-bahagian', [UserController::class, 'daftar_bahagian']);
 Route::post('/add-pengguna', [UserController::class, 'add_pengguna']);
+
+// keanggotaan
+Route::get('/daftar-list', [AnggotaController::class, 'daftar_list']);
