@@ -20,11 +20,12 @@ use App\Http\Controllers\AnggotaController;
 // });
 
 
-// user related route
+// user route
 Route::get('/', [UserController::class, 'index']);
 Route::get('/daftar-pengguna', [UserController::class, 'daftar_pengguna']);
 Route::get('/daftar-bahagian', [UserController::class, 'daftar_bahagian']);
 Route::post('/add-pengguna', [UserController::class, 'add_pengguna']);
 
-// keanggotaan
+// keanggotaan route
 Route::get('/daftar-list', [AnggotaController::class, 'daftar_list']);
+Route::get('/daftar-mohon', [AnggotaController::class, 'daftar_mohon']);

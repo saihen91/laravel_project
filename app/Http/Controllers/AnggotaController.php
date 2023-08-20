@@ -13,4 +13,12 @@ class AnggotaController extends Controller
         ];
         return view('daftar-list')->with($data);
     }
+
+    public function daftar_mohon() {
+        $data = [
+            'title' => 'Daftar Permohonan Baru',
+            'age' => 30,
+        ];
+        return view('daftar-mohon')->with($data);
+    }
 }

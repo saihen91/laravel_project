@@ -8,7 +8,7 @@
     <div class="card col-xl-12">
         <div class="card-header">
             <legend class="text-uppercase font-size-lg font-weight-bold">Senarai Permohonan Baru</legend>
-            <div class="float-right"><button class="btn btn-success"><i class="icon-plus3"></i> Daftar Permohonan Baru</button></div>
+            <div class="float-right"><a href="/daftar-mohon"><button class="btn btn-success"><i class="icon-plus3"></i> Daftar Permohonan Baru</button></a></div>
         </div>
         <table class="table datatable-basic">
             <thead>

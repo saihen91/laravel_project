@@ -50,7 +50,7 @@
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-copy"></i> <span>Pembiayaan</span></a>
+							<a href="#" class="nav-link"><i class="icon-cash3"></i> <span>Pembiayaan</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Layouts">
 								<li class="nav-item"><a href="" class="nav-link">Daftar Pembiayaan</a></li>
@@ -59,7 +59,7 @@
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-color-sampler"></i> <span>Potongan Gaji</span></a>
+							<a href="#" class="nav-link"><i class="icon-credit-card2"></i> <span>Potongan Gaji</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Themes">
 								<li class="nav-item"><a href="index.html" class="nav-link">Default</a></li>
@@ -69,7 +69,7 @@
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Terimaan</span></a>
+							<a href="#" class="nav-link"><i class="icon-cash4"></i> <span>Terimaan</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
 								<li class="nav-item nav-item-submenu">
 									<a href="#" class="nav-link"><i class="icon-plus3"></i> Terimaan Anggota</a>
@@ -92,7 +92,7 @@
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Bayaran</span></a>
+							<a href="#" class="nav-link"><i class="icon-cash4"></i> <span>Bayaran</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
 								<li class="nav-item nav-item-submenu">
 									<a href="#" class="nav-link"><i class="icon-plus3"></i> Bayaran Anggota</a>
@@ -115,7 +115,7 @@
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Hadiahsiswa</span></a>
+							<a href="#" class="nav-link"><i class="icon-gift"></i> <span>Hadiahsiswa</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
 								<li class="nav-item"><a href="" class="nav-link">Daftar Permohonan</a></li>
@@ -133,7 +133,7 @@
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Sewaan</span></a>
+							<a href="#" class="nav-link"><i class="icon-office"></i> <span>Sewaan</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
 								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Static layout</a></li>
@@ -151,7 +151,7 @@
 							</ul>
 						</li>
                         <li class="nav-item nav-item-submenu">
-							<a href="#" class="nav-link"><i class="icon-stack"></i> <span>Mesyuarat Agung</span></a>
+							<a href="#" class="nav-link"><i class="icon-users4"></i> <span>Mesyuarat Agung</span></a>
 
 							<ul class="nav nav-group-sub" data-submenu-title="Starter kit">
 								<li class="nav-item"><a href="../seed/layout_static.html" class="nav-link">Rekod Notis</a></li>
