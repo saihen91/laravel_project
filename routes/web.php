@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
+use App\Http\Controllers\ConfigController;
 use App\Http\Controllers\AnggotaController;
 
 /*
@@ -29,3 +30,7 @@ Route::post('/add-pengguna', [UserController::class, 'add_pengguna']);
 // keanggotaan route
 Route::get('/daftar-list', [AnggotaController::class, 'daftar_list']);
 Route::get('/daftar-mohon', [AnggotaController::class, 'daftar_mohon']);
+
+// code_config route
+Route::get('/majikan-list', [ConfigController::class, 'majikan_list']);
+Route::post('/tambah-majikan', [ConfigController::class, 'tambah_majikan']);

@@ -205,9 +205,7 @@
 						<li class="nav-item nav-item-submenu">
 							<a href="#" class="nav-link"><i class="icon-puzzle2"></i> <span>Tetapan Umum</span></a>
 							<ul class="nav nav-group-sub" data-submenu-title="Content styling">
-								<li class="nav-item"><a href="content_page_header.html" class="nav-link">Page header</a></li>
-								<li class="nav-item"><a href="content_page_footer.html" class="nav-link disabled">Page footer <span class="badge bg-transparent align-self-center ml-auto">Coming soon</span></a></li>
-								<li class="nav-item"><a href="content_page_panels.html" class="nav-link">Page panels</a></li>
+								<li class="nav-item"><a href="/majikan-list" class="nav-link">Majikan</a></li>
 							</ul>
 						</li>
 						<li class="nav-item nav-item-submenu">
