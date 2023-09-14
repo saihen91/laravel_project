@@ -8,7 +8,7 @@
                 <h3 class="card-title">Daftar Anggota</h3>
             </div>
             <div class="card-body">
-            <h4 align="center" style="text-transform:capitalize;font-family:Arial;color: #F78205;"><b>PROFIL PERIBADI</b></h4>
+            <h4 align="center" style=""><b>PROFIL PERIBADI</b></h4>
             <hr />
                 <form action="controller/daftar-anggota.php" method="post">
 
@@ -125,7 +125,7 @@
                     </div>
                 </div>
                 <hr />
-                <h4 align="center" style="text-transform:capitalize;font-family:Arial;color: #F78205;"><b>MAKLUMAT PEKERJAAN , MAJIKAN DAN AKAUN BANK</b></h4>
+                <h4 align="center" style=""><b>MAKLUMAT PEKERJAAN , MAJIKAN DAN AKAUN BANK</b></h4>
                 <div class="form-group row">
                     <label for="jawatan" class="col-sm-2 col-form-label text-right">Jawatan :</label>
                     <div class="col-sm-4">
@@ -205,7 +205,7 @@
                     </div>
                 </div>
                 <hr />
-                <h4 align="center" style="text-transform:capitalize;font-family:Arial;color: #F78205;"><b>WARIS ANGGOTA</b></h4>
+                <h4 align="center" style=""><b>WARIS ANGGOTA</b></h4>
                 <div class="form-group row">
                     <label for="nama_waris" class="col-sm-2 col-form-label text-right">Nama Waris :</label>
                     <div class="col-sm-9">
@@ -235,7 +235,7 @@
                     </div>
                 </div>
                 <hr />
-                <h4 align="center" style="text-transform:capitalize;font-family:Arial;color: #ff0000;"><b>URUSAN PEJABAT</b></h4>
+                <h4 align="center" style=""><b>URUSAN PEJABAT</b></h4>
                 <div class="form-group row">
                     <label for="status_mohon" class="col-sm-2 col-form-label text-right">Status Permohonan :</label>
                     <div class="col-sm-4">

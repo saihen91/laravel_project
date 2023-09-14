@@ -9,7 +9,7 @@
     <div class="col-xl-3">
         <div class="card">
             <div class="card-header">
-                <h5 class="card-title">Tambah Kod Majikan</h5>
+                <h5 class="card-title">Update Kod Majikan</h5>
             </div>
             <div class="card-body">
                 <form method="post" action="/tambah-majikan">
@@ -27,7 +27,7 @@
 						<textarea rows="5" name="alamat_majikan" cols="5" class="form-control" placeholder=""></textarea>
 					</div>
 					<div class="text-right">
-						<button type="submit" class="btn btn-primary">Simpan <i class="icon-paperplane ml-2"></i></button>
+						<button type="submit" class="btn btn-primary">Kemaskini <i class="icon-paperplane ml-2"></i></button>
 					</div>
 				</form>
             </div>
@@ -57,7 +57,7 @@
                     <td>{{ $majikan->alamat_majikan }}</td>
                     <td class="text-center">
                         <div class="list-icons">
-                            <a href="/majikan-view/{{$majikan->id}}" class="list-icons-item" data-popup="tooltip" title="Kemaskini" data-container="body">
+                            <a href="/majikan/view/{{$majikan->id}}" class="list-icons-item" data-popup="tooltip" title="Kemaskini" data-container="body">
                                 <i class="icon-pencil7"></i>
                             </a>
                             <form action="/delete-majikan/{{$majikan->id}}" method="post">

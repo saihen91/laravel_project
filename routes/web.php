@@ -34,3 +34,5 @@ Route::get('/daftar-mohon', [AnggotaController::class, 'daftar_mohon']);
 // code_config route
 Route::get('/majikan-list', [ConfigController::class, 'majikan_list']);
 Route::post('/tambah-majikan', [ConfigController::class, 'tambah_majikan']);
+Route::delete('/delete-majikan/{id}', [ConfigController::class, 'delete_majikan']);
+Route::get('/majikan-view', [ConfigController::class, 'majikan_list']);
